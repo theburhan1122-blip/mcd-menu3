@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://macmenuprices.com/"
+  status = 301
